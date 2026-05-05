@@ -17,7 +17,7 @@ Shadow Word Game adalah aplikasi game berbasis Android yang dikembangkan menggun
 - Android (.apk)
 
 ## Download APK
-(Link Google Drive kamu di sini)
+(https://drive.google.com/drive/folders/1mVgyw3mAULaxCpuT7SpanKfcXb4pdP0-?usp=sharing)
 
 ## Cara Menjalankan
 1. Download file APK
