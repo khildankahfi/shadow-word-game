@@ -27,7 +27,7 @@ Shadow Word Game adalah aplikasi game berbasis Android yang dikembangkan menggun
 ## Screenshot
 
 ### Gameplay
-![Game](Game.jng)
+![Game](Game.jpg)
 
 ## Catatan
 Source code tidak tersedia untuk project ini, namun aplikasi dapat langsung dijalankan melalui file APK.
